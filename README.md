@@ -9,8 +9,8 @@ Los datos espaciales o geográficos, concepto de Datum y tipos de coordenadas, o
 
 Desde cada link se puede acceder al material de cada clase, en este [Prezi](https://prezi.com/490kbwfqfjfc/presentacion-del-taller-de-manejo-de-datos/), la presentación del curso:
 
-4. [Clase 4](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase4/README.md) - Primera clase para generar mapas
-5. [Clase 5](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase5/README.md) - Segunda clase sobre mapas
+4. [Clase 4](https://github.com/yabellini/intro_datos_espaciales/blob/master/clase4.md) - Primera clase para generar mapas
+5. [Clase 5](https://github.com/yabellini/intro_datos_espaciales/blob/master/clase5.md) - Segunda clase sobre mapas
 
 ## Bibliografía:
 
