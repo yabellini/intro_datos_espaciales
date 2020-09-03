@@ -23,4 +23,5 @@ Desde cada link se puede acceder al material de cada clase, en este [Prezi](http
  
 ## Citar como
 ![](https://zenodo.org/badge/DOI/10.5281/zenodo.4013422.svg)
+
 Yanina Bellini Saibene, & Juan Marcelo Caldera. (2020, September). yabellini/intro_datos_espaciales: Introducción a los datos espaciales (georreferenciados) (Version v2.0). Zenodo. http://doi.org/10.5281/zenodo.4013422
