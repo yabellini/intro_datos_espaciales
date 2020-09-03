@@ -19,5 +19,8 @@ Desde cada link se puede acceder al material de cada clase, en este [Prezi](http
 3.	[Google Earth Help Center](https://support.google.com/earth/?hl=en#topic=4363013) 
 
 ## Licencia
-
  Todo el trabajo y material de este curso, desarrollado por mi y Juan Caldera se comparte bajo [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
+ 
+## Citar como
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.4013422.svg)
+Yanina Bellini Saibene, & Juan Marcelo Caldera. (2020, September). yabellini/intro_datos_espaciales: Introducción a los datos espaciales (georreferenciados) (Version v2.0). Zenodo. http://doi.org/10.5281/zenodo.4013422
