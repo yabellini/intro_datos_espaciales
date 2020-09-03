@@ -2,7 +2,7 @@
 
 ## Material de la clase 4 del taller de manejo de datos sobre Introducción a los datos espaciales
 
-  En esta clase y la siguiente veremos como realizar mapas, la presentación en [Prezi](https://prezi.com/9x1nwexskgjv/clase-5-taller-de-manejo-de-datos/) y en [PDF](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase4/Presentacion_Mapas.pdf).  La practica paso a paso se puede acceder [aqui](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase4/Curso%20Herramientas%20Libres%205.pdf) y los archivos para llevarla adelante [aqui](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase4/Lectores.xlsx).
+  En esta clase y la siguiente veremos como realizar mapas, la presentación en [Prezi](https://prezi.com/9x1nwexskgjv/clase-5-taller-de-manejo-de-datos/) y en [PDF](https://github.com/yabellini/intro_datos_espaciales/blob/master/Presentacion_Mapas.pdf).  La practica paso a paso se puede acceder [aqui](https://github.com/yabellini/intro_datos_espaciales/blob/master/Curso%20Herramientas%20Libres%205.pdf) y los archivos para llevarla adelante [aqui](https://github.com/yabellini/intro_datos_espaciales/blob/master/Lectores.xlsx).
 
 
 ## Software y Sitios Web
