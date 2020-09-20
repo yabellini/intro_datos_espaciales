@@ -3,11 +3,20 @@
 
 Taller de dos horas de introducción a los datos espaciales (parte del [taller de manejo de datos con herramientas libres](https://github.com/yabellini/TallerManejoDeDatos))
 
-Los datos espaciales o geográficos, concepto de Datum y tipos de coordenadas, obtención de datos espaciales (GPS, Google Earth-Maps, GeoINTA), formatos de datos espaciales, servicios web maping, fuente de información georeferenciada (mapas e imágenes satelitales), generar mapas (Google Earth-Maps, Quantum GIS).
+## Contenido:
+
+* Los datos espaciales o geográficos, 
+* concepto de Datum y tipos de coordenadas, 
+* obtención de datos espaciales (GPS, Google Earth, Google Maps, GeoINTA), 
+* formatos de datos espaciales (vectores y raster), 
+* servicios web maping, 
+* fuente de información georeferenciada (mapas e imágenes satelitales), 
+* generar mapas (Google Earth, Google Maps, Quantum GIS).
+* geocodificación (Google Earth, Bing Maps).
 
 ## Clases
 
-Desde cada link se puede acceder al material de cada clase, en este [Prezi](https://prezi.com/490kbwfqfjfc/presentacion-del-taller-de-manejo-de-datos/), la presentación del curso:
+Desde cada link se puede acceder al material de cada clase (teoría y práctica) en este [Prezi](https://prezi.com/490kbwfqfjfc/presentacion-del-taller-de-manejo-de-datos/) se encuentran la presentación de la teoría del curso:
 
 4. [Clase 4](https://github.com/yabellini/intro_datos_espaciales/blob/master/clase4.md) - Primera clase para generar mapas
 5. [Clase 5](https://github.com/yabellini/intro_datos_espaciales/blob/master/clase5.md) - Segunda clase sobre mapas
