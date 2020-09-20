@@ -16,7 +16,7 @@ Taller de dos horas de introducción a los datos espaciales (parte del [taller d
 
 ## Clases
 
-Desde cada link se puede acceder al material de cada clase (teoría y práctica) en este [Prezi](https://prezi.com/490kbwfqfjfc/presentacion-del-taller-de-manejo-de-datos/) se encuentran la presentación de la teoría del curso:
+Desde cada link se puede acceder al material de cada clase (teoría y práctica):
 
 4. [Clase 4](https://github.com/yabellini/intro_datos_espaciales/blob/master/clase4.md) - Primera clase sobre datos espaciales y generación de mapas.
 5. [Clase 5](https://github.com/yabellini/intro_datos_espaciales/blob/master/clase5.md) - Segunda clase sobre datos espaciales y generación de mapas.
